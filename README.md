@@ -38,24 +38,9 @@ It uses the **Faces Age Detection Dataset** and classifies images into three age
 
 ### 📁 Repository Structure
 📦 Age-Detection-ViT/
-├── 📄 train_notebook.ipynb     # Full implementation
+├── 📄 Age Detection.ipynb     # Full implementation
 ├── 📄 README.md                # Documentation
 ├── 📁 faces_age_detection/     # Saved model files
 └── 📁 assets/                  # Plots and visuals
-
----
-#### 3️⃣ Real-Time Emotion Recognition
-- **Languages:** Python  
-- **Libraries:** 
-  - Deep Learning: `keras`, `tensorflow`
-  - Computer Vision: `opencv-python`
-  - Pre-trained Models: `MobileNet`
-  - Data preprocessing: `numpy`, `matplotlib`
-- **Techniques:** 
-  - Transfer learning using MobileNet
-  - Image data augmentation
-  - Real-time face detection and emotion recognition
-  - Model checkpointing and early stopping
-- **Environment:** Google Colab / Local Python
 
 ---
